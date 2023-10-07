@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.433333,
+https://img.danews.cc/upload/images/20231007/823190bec517082353e01dae92755435.jpg
+#EXTINF:8.333333,
+https://img.danews.cc/upload/images/20231007/8be2c2dab1fa6603fccae42e3f576fad.jpg
+#EXTINF:8.333333,
+https://img.danews.cc/upload/images/20231007/f3fcce4ea9c080332e59a22e70090c96.jpg
+#EXTINF:0.133333,
+https://img.danews.cc/upload/images/20231007/8c31854602334069681e731463ad01a8.jpg
+#EXT-X-ENDLIST
